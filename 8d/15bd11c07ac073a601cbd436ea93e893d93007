@@ -1,0 +1,34 @@
+.agents/plugins/marketplace.json
+  h_17610674f646a6 1-20
+.claude-plugin/marketplace.json
+  h_17610674f646a6 1-15
+plugins/officely/.claude-plugin/plugin.json
+  h_17610674f646a6 1-12
+plugins/officely/.codex-plugin/plugin.json
+  h_17610674f646a6 1-29
+plugins/officely/.mcp.json
+  h_17610674f646a6 1-8
+plugins/officely/skills/officely-booking-rules/SKILL.md
+  h_17610674f646a6 1-22
+plugins/officely/skills/officely-bookings/SKILL.md
+  h_17610674f646a6 1-24
+plugins/officely/skills/officely-people-and-groups/SKILL.md
+  h_17610674f646a6 1-23
+plugins/officely/skills/officely-workplace-inventory/SKILL.md
+  h_17610674f646a6 1-22
+plugins/officely/skills/officely/SKILL.md
+  h_17610674f646a6 1-19
+plugins/officely/skills/officely/references/mcp-workflow.md
+  h_17610674f646a6 1-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8d15bd11c07ac073a601cbd436ea93e893d93007",
+  "prompts": {},
+  "humans": {
+    "h_17610674f646a6": {
+      "author": "Rich Turnbull <rich@getofficely.com>"
+    }
+  }
+}
