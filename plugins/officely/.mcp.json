@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "officely": {
+      "type": "http",
+      "url": "https://mcp.officely.app/mcp"
+    }
+  }
+}

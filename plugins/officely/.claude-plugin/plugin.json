@@ -1,0 +1,12 @@
+{
+  "name": "officely",
+  "version": "0.2.0",
+  "description": "Book desks and rooms, manage people and teams, and organise your workplaces with Officely.",
+  "author": {
+    "name": "Officely",
+    "url": "https://officely.app"
+  },
+  "homepage": "https://docs.officely.app/building/claude-plugin",
+  "repository": "https://github.com/officely/plugins",
+  "keywords": ["officely", "workplace", "bookings", "people"]
+}
