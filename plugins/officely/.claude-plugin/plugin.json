@@ -8,5 +8,6 @@
   },
   "homepage": "https://docs.officely.app/building/claude-plugin",
   "repository": "https://github.com/officely/plugins",
+  "license": "MIT",
   "keywords": ["officely", "workplace", "bookings", "people"]
 }
