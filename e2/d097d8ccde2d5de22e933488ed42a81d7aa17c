@@ -1,0 +1,18 @@
+plugins/officely/.claude-plugin/plugin.json
+  h_17610674f646a6 11
+plugins/officely/LICENSE
+  h_17610674f646a6 1-21
+plugins/officely/README.md
+  h_17610674f646a6 1-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e2d097d8ccde2d5de22e933488ed42a81d7aa17c",
+  "prompts": {},
+  "humans": {
+    "h_17610674f646a6": {
+      "author": "Rich Turnbull <rich@getofficely.com>"
+    }
+  }
+}
