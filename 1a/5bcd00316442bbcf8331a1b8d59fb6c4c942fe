@@ -1,0 +1,33 @@
+.cursor-plugin/marketplace.json
+  s_b22c0f10b1a383::t_4fef2a9c93c29c 1-17
+plugins/officely/.claude-plugin/plugin.json
+  s_b22c0f10b1a383::t_51042e83c8584d 3
+plugins/officely/.codex-plugin/plugin.json
+  s_b22c0f10b1a383::t_54655993cb9b11 3,16,22-24,30-32
+plugins/officely/.cursor-plugin/plugin.json
+  s_b22c0f10b1a383::t_596f0db8bccd01 1-19
+plugins/officely/mcp.json
+  s_b22c0f10b1a383::t_3cdca6b1e9a3a6 1-9
+plugins/officely/plugin.json
+  s_b22c0f10b1a383::t_ecdb44b4968c8e 1-38
+plugins/officely/server.json
+  s_b22c0f10b1a383::t_471874be5f34e2 1-21
+plugins/officely/skills/officely/references/mcp-workflow.md
+  s_b22c0f10b1a383::t_f449b8fc053f5f 18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1a5bcd00316442bbcf8331a1b8d59fb6c4c942fe",
+  "prompts": {},
+  "sessions": {
+    "s_b22c0f10b1a383": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "013f3824-6f8e-4ddb-bb7c-f36d06940446",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Rich Turnbull <rich@getofficely.com>"
+    }
+  }
+}
