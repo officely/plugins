@@ -1,0 +1,29 @@
+plugins/officely/.claude-plugin/plugin.json
+  s_b22c0f10b1a383::t_05c8def5c5ac4b 3
+plugins/officely/.codex-plugin/plugin.json
+  s_b22c0f10b1a383::t_3e040d544a1d4d 3
+plugins/officely/.cursor-plugin/plugin.json
+  s_b22c0f10b1a383::t_1971ba3c208c82 3
+plugins/officely/plugin.json
+  s_b22c0f10b1a383::t_6abe2c313d270e 4
+plugins/officely/skills/officely-bookings/SKILL.md
+  s_b22c0f10b1a383::t_e08463557a7f75 22
+plugins/officely/skills/officely/references/mcp-workflow.md
+  s_b22c0f10b1a383::t_30a90218b028a1 9-10,14,18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fbb193f2b8e91c2a5b9c0a81af225dce81c4557e",
+  "prompts": {},
+  "sessions": {
+    "s_b22c0f10b1a383": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "013f3824-6f8e-4ddb-bb7c-f36d06940446",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Rich Turnbull <rich@getofficely.com>"
+    }
+  }
+}
