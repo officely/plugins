@@ -1,6 +1,6 @@
 {
   "name": "officely",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Book desks and rooms, manage people and teams, and organise your workplaces with Officely.",
   "author": {
     "name": "Officely",
@@ -13,17 +13,22 @@
   "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "Officely",
-    "shortDescription": "Book and manage your workplaces with Officely.",
+    "shortDescription": "Book desks and manage offices",
     "longDescription": "Workflow guidance and customer MCP tools to book desks and rooms, manage booking policies and teams, and organise workplaces using your Officely account access.",
     "developerName": "Officely",
     "category": "Business & Operations",
     "capabilities": ["Read", "Write"],
     "websiteURL": "https://officely.app",
+    "supportURL": "https://docs.officely.app/building/support",
+    "privacyPolicyURL": "https://trust.officely.app/privacy-policy",
+    "termsOfServiceURL": "https://trust.officely.app/terms-of-service",
     "defaultPrompt": [
       "Find a desk for my next office day.",
       "Set up booking approvals for my team.",
       "Help me organise the desks and rooms in my office."
     ],
-    "brandColor": "#7BDFFF"
+    "brandColor": "#7BDFFF",
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png"
   }
 }

@@ -1,0 +1,19 @@
+{
+  "name": "officely",
+  "version": "0.3.0",
+  "description": "Book desks and rooms, manage people and teams, and organise your workplaces with Officely.",
+  "author": {
+    "name": "Officely",
+    "email": "support@officely.app"
+  },
+  "homepage": "https://docs.officely.app/building/other-mcp",
+  "repository": "https://github.com/officely/plugins",
+  "keywords": ["officely", "workplace", "bookings", "people"],
+  "logo": "assets/logo.png",
+  "skills": "./skills/",
+  "mcpServers": {
+    "officely": {
+      "url": "https://mcp.officely.app/mcp"
+    }
+  }
+}

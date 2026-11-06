@@ -1,0 +1,17 @@
+{
+  "name": "officely",
+  "owner": {
+    "name": "Officely",
+    "email": "support@officely.app"
+  },
+  "metadata": {
+    "description": "The Officely plugin for Cursor."
+  },
+  "plugins": [
+    {
+      "name": "officely",
+      "source": "plugins/officely",
+      "description": "Book desks and rooms, manage people and teams, and organise your workplaces with Officely."
+    }
+  ]
+}

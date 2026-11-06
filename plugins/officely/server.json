@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "app.officely/officely",
+  "title": "Officely",
+  "description": "Book desks and rooms, manage people and teams, and organise workplaces in Officely.",
+  "version": "1.0.0",
+  "websiteUrl": "https://docs.officely.app/building/other-mcp",
+  "icons": [
+    {
+      "src": "https://officely.app/officely-icon.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.officely.app/mcp"
+    }
+  ]
+}
