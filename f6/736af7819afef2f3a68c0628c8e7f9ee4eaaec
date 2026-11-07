@@ -1,0 +1,19 @@
+plugins/officely/README.md
+  s_87168761fee0dc::t_68db744c260113 12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f6736af7819afef2f3a68c0628c8e7f9ee4eaaec",
+  "prompts": {},
+  "sessions": {
+    "s_87168761fee0dc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d5b99c86-28a5-40ef-8aef-35b2f1e957c6",
+        "model": "claude-haiku-5-5"
+      },
+      "human_author": "Rich Turnbull <rich@getofficely.com>"
+    }
+  }
+}
