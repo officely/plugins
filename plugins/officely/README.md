@@ -9,7 +9,7 @@ Officely is an enterprise workplace management platform. Connect it to Claude an
 
 Claude works as you, with the same access you have in Officely. Reading and changing are separate tools, so you can let Claude look things up freely and approve each change it makes.
 
-The plugin includes the Officely MCP server (`https://mcp.officely.app/mcp`) and skills for bookings, booking rules, people and groups, and workplace inventory. The server has four tools: search finds the right Officely API operation, docs reads Officely's documentation, read looks things up, and write makes changes.
+The plugin includes the Officely MCP server and skills for bookings, booking rules, people and groups, and workplace inventory. The server has four tools: search finds the right Officely API operation, docs reads Officely's documentation, read looks things up, and write makes changes.
 
 ## Setup
 
