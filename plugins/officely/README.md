@@ -1,6 +1,6 @@
 # Officely
 
-Officely is a workplace platform for hybrid teams. This plugin connects Claude to your Officely account so you can book desks and rooms, see who's in the office, and manage people, teams and booking rules by asking in plain language.
+Officely is an enterprise workplace management platform. This plugin connects Claude to your Officely account so you can book desks and rooms, see who's in the office, and manage people, teams and booking rules by asking in plain language.
 
 It includes the Officely MCP server (`https://mcp.officely.app/mcp`) and skills for bookings, booking rules, people and groups, and workplace inventory.
 
