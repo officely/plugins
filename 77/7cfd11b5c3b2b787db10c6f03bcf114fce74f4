@@ -1,0 +1,14 @@
+plugins/officely/README.md
+  h_17610674f646a6 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "777cfd11b5c3b2b787db10c6f03bcf114fce74f4",
+  "prompts": {},
+  "humans": {
+    "h_17610674f646a6": {
+      "author": "Rich Turnbull <rich@getofficely.com>"
+    }
+  }
+}
