@@ -3,8 +3,12 @@
   "name": "app.officely/officely",
   "title": "Officely",
   "description": "Book desks and meeting rooms, see who's in the office, and manage your workplace in Officely.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "websiteUrl": "https://docs.officely.app/building/other-mcp",
+  "repository": {
+    "url": "https://github.com/officely/plugins",
+    "source": "github"
+  },
   "icons": [
     {
       "src": "https://officely.app/officely-icon.png",
