@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "app.officely/officely",
   "title": "Officely",
-  "description": "Book desks and rooms, manage people and teams, and organise workplaces in Officely.",
+  "description": "Book desks and meeting rooms, see who's in the office, and manage your workplace in Officely.",
   "version": "1.0.0",
   "websiteUrl": "https://docs.officely.app/building/other-mcp",
   "icons": [
