@@ -1,0 +1,28 @@
+.claude-plugin/marketplace.json
+  h_17610674f646a6 12
+.cursor-plugin/marketplace.json
+  h_17610674f646a6 14
+plugins/officely/.claude-plugin/plugin.json
+  h_17610674f646a6 4
+plugins/officely/.codex-plugin/plugin.json
+  h_17610674f646a6 4,17
+plugins/officely/.cursor-plugin/plugin.json
+  h_17610674f646a6 4
+plugins/officely/README.md
+  h_17610674f646a6 3,5-12,16
+plugins/officely/plugin.json
+  h_17610674f646a6 5,19
+plugins/officely/server.json
+  h_17610674f646a6 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "66ed20742b1207b603e1056f47d68bbcc9db6bf7",
+  "prompts": {},
+  "humans": {
+    "h_17610674f646a6": {
+      "author": "Rich Turnbull <rich@getofficely.com>"
+    }
+  }
+}
