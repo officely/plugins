@@ -3,7 +3,7 @@
   "description": "The Officely plugin for Claude Code and Codex.",
   "owner": {
     "name": "Officely",
-    "url": "https://officely.app"
+    "url": "https://getofficely.com"
   },
   "plugins": [
     {

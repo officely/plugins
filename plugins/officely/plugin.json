@@ -6,7 +6,7 @@
   "author": {
     "name": "Officely",
     "email": "support@officely.app",
-    "url": "https://officely.app"
+    "url": "https://getofficely.com"
   },
   "homepage": "https://docs.officely.app/building/codex-plugin",
   "repository": "https://github.com/officely/plugins",
@@ -20,7 +20,7 @@
         "developerName": "Officely",
         "category": "Business & Operations",
         "capabilities": ["Read", "Write"],
-        "websiteURL": "https://officely.app",
+        "websiteURL": "https://getofficely.com",
         "supportURL": "https://docs.officely.app/building/support",
         "privacyPolicyURL": "https://trust.officely.app/privacy-policy",
         "termsOfServiceURL": "https://trust.officely.app/terms-of-service",

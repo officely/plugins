@@ -4,7 +4,7 @@
   "description": "Book desks and meeting rooms, see who's in the office, and manage your workplace in Officely.",
   "author": {
     "name": "Officely",
-    "url": "https://officely.app"
+    "url": "https://getofficely.com"
   },
   "homepage": "https://docs.officely.app/building/claude-plugin",
   "repository": "https://github.com/officely/plugins",
